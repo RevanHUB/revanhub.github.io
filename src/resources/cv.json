@@ -1,0 +1,157 @@
+
+    {
+        "_comment":"This is only a template to use",
+        "name": "David Martín Concepción",
+        "email": "davidasir2020@gmail.com",
+        "edad": 32,
+        "status": "???",
+        "description": "Junior Full Stack Developer con predilección para el Frontend. He desarrollado más de 50 repositorios en GitHub, gracias a ello he logrado un mejor entendimiento de la programación y el desarrollo, aunque no es un logro colosal para un desarrollador, sí creo que demuestra mi constancia como programador. Además he colaborado con desarrolladores en pequeños proyectos open source.🚀 ",
+        "telephone": "+34628101155",
+        "position": "junior full stack developer",
+        "where": "La Palma",
+        "page": "https://david-martin-webdev.com",
+        "avatar_url":"image-test.png",
+        "studies":[
+            {
+                "title":"grado en enfermería",
+                "icon":"pi-home",
+                "description": "2010 to 2014",
+                "list": ["Cuidados de enfermería al paciente en servicios de Cardiología, Neumología, Neurología y Radiología"]
+            },
+            {
+                "title":"administración de sistemas informáticos en red",
+                "icon":"pi-home",
+                "description": "2019 to 2021",
+                "list": ["Programación con PHP y JavaScript", "Manejo de Sistemas de Redes", "Servidores de aplicaciones: Web, FTP, Active Directory, DNS entre otros"]
+            },
+            {
+                "title":"desarrollo de aplicaciones web",
+                "icon":"pi-home",
+                "description": "2019 to 2021",
+                "list": ["Programación con Java", "POO / MVC", "Laravel", "Vue"]
+            }
+        ],
+        "courses":[
+            {
+                "title":"curso de asincronismo en javascript (Juniors)",
+                "icon":"pi-home",
+                "description": "2019 a 2021",
+                "list": ["Uso de async y await", "Promesas y su uso efectivo"]
+            },
+            {
+                "title":"curso de diseño para programadores (juniors)",
+                "icon":"pi-home",
+                "description": "2019 a 2021",
+                "list": ["Enfocado en pautas de diseño, como tipo de fuentes recomendadas, acceso de recursos de tercero y manejo seguro de estos.", "Animaciones y estructura de contenido, trabajo mediante colores y su contraste.", "Desarrollo mediante pautas de diseño, manejo efectivo y desarrollo flexible."]
+            },
+            {
+                "title":"curso agile de uml",
+                "icon":"pi-home",
+                "description": "2022 a 2023",
+                "list": ["Enfocado en pautas de diseño, como tipo de fuentes recomendadas, acceso de recursos de tercero y manejo seguro de estos.", "Animaciones y estructura de contenido, trabajo mediante colores y su contraste.", "Desarrollo mediante pautas de diseño, manejo efectivo y desarrollo flexible."]
+            },
+            {
+                "title":"aplicaciones de escritorio con javafx (juniors)",
+                "icon":"pi-home",
+                "description": "2022 a 2023",
+                "list": ["Enfocado en pautas de diseño, como tipo de fuentes recomendadas, acceso de recursos de tercero y manejo seguro de estos.", "Animaciones y estructura de contenido, trabajo mediante colores y su contraste.", "Desarrollo mediante pautas de diseño, manejo efectivo y desarrollo flexible."]
+            },
+            {
+                "title":"cursos básico técnico de ciberseguridad (incibe)",
+                "icon":"pi-home",
+                "description": "2023",
+                "list": ["Analisis de incidentes y forense", "Administración de sistemas de ciberseguridad", "Ciberseguridad Industrial", "Compliance"]
+            },
+            {
+                "title":"cursos de ciberseguridad para microempresas y autónomos (incibe)",
+                "icon":"pi-home",
+                "description": "2023",
+                "list": ["Ingenieria Social", "Uso seguro de las tecnologías enfocadas a la empresa", "Auditorías de sistemas", "Legislación", "Seguridad en dispositivos móviles y redes wifi", "Ciberseguridad en la nube"]
+            }
+        ],
+        "interests": [
+            {
+                "name": "JavaScript",
+                "progress": 100
+            },
+            {
+                "name": "NodeJS",
+                "progress": 100
+            },
+            {
+                "name": "Vue",
+                "progress": 100
+            },
+            {
+                "name": "Angular",
+                "progress": 80
+            },
+            {
+                "name": "React",
+                "progress": 100
+            },
+            {
+                "name": "Laravel",
+                "progress": 80
+            },
+            {
+                "name": "Web design",
+                "progress":100
+            },
+            {
+                "name": "Aplicaciones de escritorio",
+                "progress":100
+            }
+        ],
+        "languages": [
+            {
+                "name": "Español",
+                "description": "nativo",
+                "progress": 100
+            },
+            {
+                "name": "Inglés",
+                "description": "INTERMEDIO b1",
+                "progress": 60
+            }
+        ],
+        "projects": [
+            {
+                "image":"./src/resources/images/projects/lightrift.png",
+                "name":"Light Rift",
+                "date": "Junio 22 - Actualidad",
+                "description":"Una aplicación de escritorio, desarrollada con Electron y NodeJS para búsqueda de jugadores."
+            },
+            {
+                "image":"./src/resources/images/projects/pomodoro.png",
+                "name":"Pomodoro React",
+                "date": "Julio 2022",
+                "description":"Prototipo de aplicación web, desarrollada para navegadores con cliente ejecutable mediante Electron."
+            },
+            {
+                "image":"./src/resources/images/projects/smarty.png",
+                "name":"Smarty template",
+                "date": "Agosto 23",
+                "description":"Prueba técnica realizada, consistía en realización de un sitio web que trabajara mediante el motor de plantillas Smarty, está estructurado para cambiar el frontend mediante la edición de un archivo de configuración."
+            }
+        ],
+
+        "media": [
+            {
+                "name":"Twitter",
+                "icon":"twitter",
+                "url":"https://twitter.com"
+            },
+            {
+                "name":"LinkedIn",
+                "icon":"linkedin",
+                "url":"https://www.linkedin.com/in/david-martín-523a3b21b/"
+            },
+            {
+                "name":"GitHub",
+                "icon":"github",
+                "url":"https://github.com/RevanHUB"
+            }
+        ]
+        
+    }
